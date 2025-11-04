@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 18:02:10
+// 网站数据 - 通过管理后台更新于 2025/11/4 18:40:01
 
 // 站点配置
 export const siteConfig = {
@@ -233,6 +233,13 @@ export const categories = [
     "id": "author",
     "name": "作者专栏",
     "icon": "/assets/tech_blogger_avatar.png",
+    "special": true,
+    "subcategories": []
+  },
+  {
+    "id": "category_1762252793350",
+    "name": "书源分享",
+    "icon": "/assets/tools_icon.png",
     "special": true,
     "subcategories": []
   },

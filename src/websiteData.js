@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 18:01:34
+// 网站数据 - 通过管理后台更新于 2025/11/4 18:02:10
 
 // 站点配置
 export const siteConfig = {
@@ -46,18 +46,6 @@ export const websiteData = [
       "云盘"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=tc.mlhh.cn"
-  },
-  {
-    "id": 45,
-    "name": "知乎专栏",
-    "description": "二进制-知乎",
-    "url": "https://www.zhihu.com/people/mrblack-41-9",
-    "category": "author",
-    "tags": [
-      "知乎专栏",
-      "技术文章"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.zhihu.com"
   },
   {
     "id": 1751617129171,

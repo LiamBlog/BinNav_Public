@@ -212,7 +212,7 @@ export async function onRequestPost({ request, env }) {
           const adminEmailPayload = {
             from: RESEND_DOMAIN ? `noreply@${RESEND_DOMAIN}` : 'onboarding@resend.dev',
             to: [ADMIN_EMAIL],
-            subject: `[BinNav] 新站点提交 - ${name}`,
+            subject: `[Navigation Nav] 新站点提交 - ${name}`,
             html: `
               <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
                 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; text-align: center; border-radius: 8px 8px 0 0;">
@@ -263,7 +263,7 @@ export async function onRequestPost({ request, env }) {
                   </div>
                   
                   <div style="text-align: center; margin: 30px 0;">
-                    <a href="${request.headers.get('origin') || 'https://binnav.top'}/admin" 
+                    <a href="${request.headers.get('origin') || 'https://dh.mlhh.cn'}/admin" 
                        style="display: inline-block; background-color: #2563eb; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold;">
                       前往管理后台审核
                     </a>
@@ -271,7 +271,7 @@ export async function onRequestPost({ request, env }) {
                 </div>
                 
                 <div style="text-align: center; padding: 20px; color: #9ca3af; font-size: 12px;">
-                  此邮件由 BinNav 系统自动发送，请勿回复。
+                  此邮件由 Navigation Nav 系统自动发送，请勿回复。
                 </div>
               </div>
             `
@@ -302,7 +302,7 @@ export async function onRequestPost({ request, env }) {
         const submitterEmailPayload = {
           from: RESEND_DOMAIN ? `noreply@${RESEND_DOMAIN}` : 'onboarding@resend.dev',
           to: [contactEmail],
-          subject: `[BinNav] 站点提交确认 - ${name}`,
+          subject: `[Navigation Nav] 站点提交确认 - ${name}`,
           html: `
             <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
               <div style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 30px; text-align: center; border-radius: 8px 8px 0 0;">
@@ -311,7 +311,7 @@ export async function onRequestPost({ request, env }) {
               
               <div style="padding: 30px; background-color: #f9fafb; border-radius: 0 0 8px 8px;">
                 <p style="font-size: 16px; color: #374151; margin-bottom: 20px;">
-                  ${submitterName ? `尊敬的 ${submitterName}，` : ''}感谢您向 BinNav 提交网站！您的提交已成功接收。
+                  ${submitterName ? `尊敬的 ${submitterName}，` : ''}感谢您向 Navigation Nav 提交网站！您的提交已成功接收。
                 </p>
                 
                 <div style="background-color: white; padding: 20px; border-radius: 8px; margin: 20px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
@@ -344,21 +344,21 @@ export async function onRequestPost({ request, env }) {
                   <h4 style="margin-top: 0; color: #065f46;">📋 审核流程</h4>
                   <ul style="margin: 10px 0; padding-left: 20px; color: #065f46;">
                     <li>我们将在 1-3 个工作日内审核您的提交</li>
-                    <li>审核通过后，您的网站将出现在 BinNav 导航中</li>
+                    <li>审核通过后，您的网站将出现在 Navigation Nav 导航中</li>
                     <li>审核结果将通过邮件通知您</li>
                   </ul>
                 </div>
                 
                 <div style="text-align: center; margin: 30px 0;">
-                  <a href="${request.headers.get('origin') || 'https://binnav.top'}" 
+                  <a href="${request.headers.get('origin') || 'https://dh.mlhh.cn/'}" 
                      style="display: inline-block; background-color: #10b981; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold;">
-                    访问 BinNav
+                    访问 Navigation Nav
                   </a>
                 </div>
               </div>
               
               <div style="text-align: center; padding: 20px; color: #9ca3af; font-size: 12px;">
-                此邮件由 BinNav 系统自动发送，请勿回复。
+                此邮件由 Navigation Nav 系统自动发送，请勿回复。
               </div>
             </div>
           `

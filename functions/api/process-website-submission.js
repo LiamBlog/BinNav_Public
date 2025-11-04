@@ -273,8 +273,8 @@ export async function onRequestPost({ request, env }) {
       try {
         const isApproved = action === 'approve';
         const emailSubject = isApproved 
-          ? `[BinNav] 您的站点"${website.name}"已通过审核` 
-          : `[BinNav] 您的站点"${website.name}"审核未通过`;
+          ? `[Navigation Nav] 您的站点"${website.name}"已通过审核` 
+          : `[Navigation Nav] 您的站点"${website.name}"审核未通过`;
 
         const emailHtml = isApproved ? `
           <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
@@ -284,7 +284,7 @@ export async function onRequestPost({ request, env }) {
             
             <div style="padding: 30px; background-color: #f9fafb; border-radius: 0 0 8px 8px;">
               <p style="font-size: 16px; color: #374151; margin-bottom: 20px;">
-                恭喜！您提交的网站已通过我们的审核，现在已经正式收录到 BinNav 导航中。
+                恭喜！您提交的网站已通过我们的审核，现在已经正式收录到 Navigation Nav 导航中。
               </p>
               
               <div style="background-color: white; padding: 20px; border-radius: 8px; margin: 20px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
@@ -306,9 +306,9 @@ export async function onRequestPost({ request, env }) {
               </div>
               
               <div style="text-align: center; margin: 30px 0;">
-                <a href="${request.headers.get('origin') || 'https://binnav.top'}" 
+                <a href="${request.headers.get('origin') || 'https://dh.mlhh.cn/'}" 
                    style="display: inline-block; background-color: #10b981; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold;">
-                  立即访问 BinNav
+                  立即访问 Navigation Nav
                 </a>
               </div>
               
@@ -321,7 +321,7 @@ export async function onRequestPost({ request, env }) {
             </div>
             
             <div style="text-align: center; padding: 20px; color: #9ca3af; font-size: 12px;">
-              此邮件由 BinNav 系统自动发送，请勿回复。
+              此邮件由 Navigation Nav 系统自动发送，请勿回复。
             </div>
           </div>
         ` : `
@@ -356,20 +356,20 @@ export async function onRequestPost({ request, env }) {
               <div style="background-color: #fef2f2; border-left: 4px solid #dc2626; padding: 15px; margin: 20px 0;">
                 <p style="margin: 0; color: #991b1b;">
                   <strong>改进建议：</strong><br>
-                  请根据拒绝原因改进您的网站，您可以在完善后重新提交。我们欢迎高质量、有价值的网站加入 BinNav。
+                  请根据拒绝原因改进您的网站，您可以在完善后重新提交。我们欢迎高质量、有价值的网站加入 Navigation Nav。
                 </p>
               </div>
               
               <div style="text-align: center; margin: 30px 0;">
-                <a href="${request.headers.get('origin') || 'https://binnav.top'}" 
+                <a href="${request.headers.get('origin') || 'https://dh.mlhh.cn/'}" 
                    style="display: inline-block; background-color: #6b7280; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold;">
-                  访问 BinNav
+                  访问 Navigation Nav
                 </a>
               </div>
             </div>
             
             <div style="text-align: center; padding: 20px; color: #9ca3af; font-size: 12px;">
-              此邮件由 BinNav 系统自动发送，请勿回复。
+              此邮件由 Navigation Nav 系统自动发送，请勿回复。
             </div>
           </div>
         `;

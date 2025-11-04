@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 18:40:01
+// 网站数据 - 通过管理后台更新于 2025/11/4 18:53:29
 
 // 站点配置
 export const siteConfig = {
@@ -46,6 +46,18 @@ export const websiteData = [
       "云盘"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=tc.mlhh.cn"
+  },
+  {
+    "id": 1751813976439,
+    "name": "Finalshell激活码",
+    "description": "Finalshell激活码，仅供学习交流，不要用于违法行为！",
+    "url": "https://js.mlhh.cn",
+    "category": "author",
+    "tags": [
+      "Finalshell，激活码"
+    ],
+    "icon": "/assets/tools_icon.png",
+    "popularity": 50
   },
   {
     "id": 1751617129171,
@@ -226,18 +238,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=edgeone.ai"
   },
   {
-    "id": 1751813976439,
-    "name": "Finalshell激活码",
-    "description": "Finalshell激活码，仅供学习交流，不要用于违法行为！",
-    "url": "https://js.mlhh.cn",
-    "category": "author",
-    "tags": [
-      "Finalshell，激活码"
-    ],
-    "icon": "/assets/tools_icon.png",
-    "popularity": 50
-  },
-  {
     "id": 1751813976440,
     "name": "源社区",
     "description": "源社区",
@@ -246,7 +246,7 @@ export const websiteData = [
     "tags": [
       "源社区"
     ],
-    "icon": "/assets/tools_icon.png",
+    "icon": "https://icon.nbvil.com/favicon?url=ycoo.net",
     "popularity": 50
   }
 ];

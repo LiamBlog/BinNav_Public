@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 18:53:29
+// 网站数据 - 通过管理后台更新于 2025/11/4 19:01:13
 
 // 站点配置
 export const siteConfig = {
@@ -56,8 +56,19 @@ export const websiteData = [
     "tags": [
       "Finalshell，激活码"
     ],
-    "icon": "/assets/tools_icon.png",
+    "icon": "https://icon.nbvil.com/favicon?url=mlhh.cn",
     "popularity": 50
+  },
+  {
+    "id": 1762254027495,
+    "name": "书山发布页",
+    "description": "",
+    "url": "https://fb.shusan.cc/",
+    "category": "category_1762252793350",
+    "tags": [
+      "书源"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=fb.shusan.cc"
   },
   {
     "id": 1751617129171,

@@ -236,6 +236,18 @@ export const websiteData = [
     ],
     "icon": "/assets/tools_icon.png",
     "popularity": 50
+  },
+  {
+    "id": 1751813976440,
+    "name": "源社区",
+    "description": "源社区",
+    "url": "https://ycoo.net",
+    "category": "friend_links",
+    "tags": [
+      "源社区"
+    ],
+    "icon": "/assets/tools_icon.png",
+    "popularity": 50
   }
 ];
 

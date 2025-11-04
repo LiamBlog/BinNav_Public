@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 19:23:51
+// 网站数据 - 通过管理后台更新于 2025/11/4 19:26:45
 
 // 站点配置
 export const siteConfig = {
@@ -280,8 +280,9 @@ export const categories = [
       {
         "id": "category_1762254600844",
         "name": "发布页",
-        "icon": "/assets/Browser-Code.png",
-        "special": false
+        "icon": "/assets/fa.png",
+        "special": false,
+        "subcategories": []
       }
     ]
   },

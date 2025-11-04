@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 19:01:13
+// 网站数据 - 通过管理后台更新于 2025/11/4 19:04:31
 
 // 站点配置
 export const siteConfig = {
@@ -274,7 +274,7 @@ export const categories = [
   {
     "id": "category_1762252793350",
     "name": "书源分享",
-    "icon": "/assets/tools_icon.png",
+    "icon": "/assets/education_icon.png",
     "special": true,
     "subcategories": []
   },

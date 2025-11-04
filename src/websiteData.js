@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 17:59:14
+// 网站数据 - 通过管理后台更新于 2025/11/4 18:00:49
 
 // 站点配置
 export const siteConfig = {
@@ -16,36 +16,36 @@ export const websiteData = [
     "id": 1751807882512,
     "name": "个人站点",
     "description": "作者个人站点展示",
-    "url": "https://i.bincore.cn/",
+    "url": "https://mlhh.cn/",
     "category": "author",
     "tags": [
       "个人站点"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=i.bincore.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=mlhh.cn"
   },
   {
     "id": 40,
-    "name": "Newbie Village",
-    "description": "二进制博客",
-    "url": "https://blog.nbvil.com/",
+    "name": "漫旅绘话",
+    "description": "个人博客",
+    "url": "https://www.mlhh.cn/",
     "category": "author",
     "tags": [
       "个人博客",
       "教程分享",
       "开发心得"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=blog.nbvil.com"
+    "icon": "https://icon.nbvil.com/favicon?url=www.mlhh.cn"
   },
   {
     "id": 1751813976438,
-    "name": "博主云盘",
+    "name": "博主图床-Cloudreve",
     "description": "分享教程涉及的工具及相关文档代码",
-    "url": "https://pan.nbvil.com/",
+    "url": "https://tc.mlhh.cn/",
     "category": "author",
     "tags": [
       "云盘"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=pan.nbvil.com"
+    "icon": "https://icon.nbvil.com/favicon?url=tc.mlhh.cn"
   },
   {
     "id": 45,

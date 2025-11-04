@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 19:32:21
+// 网站数据 - 通过管理后台更新于 2025/11/4 19:32:49
 
 // 站点配置
 export const siteConfig = {
@@ -64,7 +64,7 @@ export const websiteData = [
     "name": "书山发布页",
     "description": "",
     "url": "https://fb.shusan.cc/",
-    "category": "category_1762254600844",
+    "category": "category_1762252793350",
     "tags": [
       "书源"
     ],

@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "BinNav - 精选网站导航，发现优质网站，提升工作效率",
+  "description": "Navigation Nav - 精选网站导航，发现优质网站，提升工作效率",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -40,6 +40,6 @@
     "vite",
     "tailwindcss"
   ],
-  "author": "Sindri",
+  "author": "LiamBlog",
   "license": "MIT"
 }

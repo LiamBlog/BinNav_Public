@@ -380,16 +380,16 @@ function HomePage() {
               <div>
                 <span>© 2025 </span>
                 <a
-                  href="https://i.bincore.cn"
+                  href="https://mlhh.cn"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-colors"
                 >
-                  Sindri
+                  LiamBlog
                 </a>
                 <span className="mx-2">·</span>
                 <a
-                  href="https://github.com/sindricn/BinNav"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-colors"

@@ -224,6 +224,18 @@ export const websiteData = [
       "CDN"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=edgeone.ai"
+  },
+  {
+    "id": 1751813976439,
+    "name": "Finalshell激活码",
+    "description": "Finalshell激活码，仅供学习交流，不要用于违法行为！",
+    "url": "https://js.mlhh.cn",
+    "category": "author",
+    "tags": [
+      "Finalshell，激活码"
+    ],
+    "icon": "/assets/tools_icon.png",
+    "popularity": 50
   }
 ];
 

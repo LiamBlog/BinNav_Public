@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 17:46:07
+// 网站数据 - 通过管理后台更新于 2025/11/4 17:59:14
 
 // 站点配置
 export const siteConfig = {
@@ -46,39 +46,6 @@ export const websiteData = [
       "云盘"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=pan.nbvil.com"
-  },
-  {
-    "id": 1751598590526,
-    "name": "YouTube频道",
-    "description": "作者YouTube频道，定期上传视频教程",
-    "url": "https://www.youtube.com/@nbvil.sindri",
-    "category": "author",
-    "tags": [
-      "视频"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.youtube.com"
-  },
-  {
-    "id": 41,
-    "name": "GitHub Projects",
-    "description": "作者开源项目",
-    "url": "https://github.com/sindricn",
-    "category": "author",
-    "tags": [
-      "开源项目"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=github.com"
-  },
-  {
-    "id": 1751596898467,
-    "name": "B站",
-    "description": "作者B站频道，不定期上传视频教程",
-    "url": "https://space.bilibili.com/3546865807133625",
-    "category": "author",
-    "tags": [
-      "视频"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=space.bilibili.com"
   },
   {
     "id": 45,

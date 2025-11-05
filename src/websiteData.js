@@ -1,11 +1,11 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 08:33:52
+// 网站数据 - 通过管理后台更新于 2025/11/5 08:34:09
 
 // 站点配置
 export const siteConfig = {
   "siteName": "Navigation Nav",
   "siteTitle": "Navigation Nav - 导航",
   "siteLogo": "/assets/logo.png",
-  "siteDescription": "二进制导航页面，精选优质站点",
+  "siteDescription": "导航页面，精选优质站点",
   "icpRecord": "",
   "publicSecurityRecord": "",
   "publicSecurityRecordUrl": ""

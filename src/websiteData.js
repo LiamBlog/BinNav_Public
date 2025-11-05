@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 08:44:58
+// 网站数据 - 通过管理后台更新于 2025/11/5 14:09:56
 
 // 站点配置
 export const siteConfig = {
@@ -54,10 +54,10 @@ export const websiteData = [
     "url": "https://js.mlhh.cn",
     "category": "author",
     "tags": [
-      "Finalshell，激活码"
+      "Finalshell",
+      "激活码"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=mlhh.cn",
-    "popularity": 50
+    "icon": "https://icon.nbvil.com/favicon?url=mlhh.cn"
   },
   {
     "id": 1762254027495,
@@ -88,9 +88,22 @@ export const websiteData = [
     "url": "https://sy.mlhh.cn",
     "category": "category_1762254600844",
     "tags": [
-      "书源，发布页"
+      "书源",
+      "发布页"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=sy.mlhh.cn"
+  },
+  {
+    "id": 1762322934619,
+    "name": "晴天发布页",
+    "description": "",
+    "url": "http://vip.gyks.cf",
+    "category": "category_1762254600844",
+    "tags": [
+      "发布页",
+      "晴天"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=vip.gyks.cf"
   },
   {
     "id": 1762302603010,
@@ -99,7 +112,9 @@ export const websiteData = [
     "url": "https://read.mlhh.cn",
     "category": "category_1762302555240",
     "tags": [
-      "轻阅读，在线阅读，网页阅读"
+      "轻阅读",
+      "在线阅读",
+      "网页阅读"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=read.mlhh.cn"
   },
@@ -110,7 +125,9 @@ export const websiteData = [
     "url": "https://qyd.mlhh.cn",
     "category": "category_1762302555240",
     "tags": [
-      "轻阅读，邀请码，自助"
+      "轻阅读",
+      "邀请码",
+      "自助"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=qyd.mlhh.cn"
   },
@@ -121,7 +138,9 @@ export const websiteData = [
     "url": "https://qyd.mlhh.cn/permission",
     "category": "category_1762302555240",
     "tags": [
-      "轻阅读，权限，自助"
+      "轻阅读",
+      "权限",
+      "自助"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=qyd.mlhh.cn"
   },

@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/4 19:34:15
+// 网站数据 - 通过管理后台更新于 2025/11/5 08:26:30
 
 // 站点配置
 export const siteConfig = {
@@ -370,5 +370,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-11-04"
+  lastUpdated: "2025-11-05"
 };

@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 08:31:45
+// 网站数据 - 通过管理后台更新于 2025/11/5 08:33:40
 
 // 站点配置
 export const siteConfig = {
@@ -102,20 +102,6 @@ export const websiteData = [
       "轻阅读，权限，自助"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=qyd.mlhh.cn"
-  },
-  {
-    "id": 1751617129171,
-    "name": "Cloudflare",
-    "description": "Cloudflare以向客户提供网站安全管理、性能优化及相关的技术支持为主要业务。",
-    "url": "https://www.cloudflare.com/",
-    "category": "recommended",
-    "tags": [
-      "免费",
-      "网站",
-      "CDN",
-      "DDOS"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.cloudflare.com"
   },
   {
     "id": 1751811992820,
@@ -268,6 +254,20 @@ export const websiteData = [
       "开发"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=termius.com"
+  },
+  {
+    "id": 1751617129171,
+    "name": "Cloudflare",
+    "description": "Cloudflare以向客户提供网站安全管理、性能优化及相关的技术支持为主要业务。",
+    "url": "https://www.cloudflare.com/",
+    "category": "friend_links",
+    "tags": [
+      "免费",
+      "网站",
+      "CDN",
+      "DDOS"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.cloudflare.com"
   },
   {
     "id": 1751807806262,

@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 08:36:05
+// 网站数据 - 通过管理后台更新于 2025/11/5 08:44:58
 
 // 站点配置
 export const siteConfig = {
@@ -79,7 +79,7 @@ export const websiteData = [
     "tags": [
       "发布页"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=mlhh.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=fb.mlhh.cn"
   },
   {
     "id": 1762302963886,
@@ -90,7 +90,7 @@ export const websiteData = [
     "tags": [
       "书源，发布页"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=mlhh.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=sy.mlhh.cn"
   },
   {
     "id": 1762302603010,
@@ -342,8 +342,9 @@ export const categories = [
       {
         "id": "category_1762302555240",
         "name": "轻阅读",
-        "icon": "/assets/education_icon.png",
-        "special": false
+        "icon": "/assets/qing.png",
+        "special": false,
+        "subcategories": []
       }
     ]
   },

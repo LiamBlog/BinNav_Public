@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 08:29:18
+// 网站数据 - 通过管理后台更新于 2025/11/5 08:31:45
 
 // 站点配置
 export const siteConfig = {
@@ -69,6 +69,39 @@ export const websiteData = [
       "书源"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=fb.shusan.cc"
+  },
+  {
+    "id": 1762302603010,
+    "name": "轻阅读",
+    "description": "",
+    "url": "https://read.mlhh.cn",
+    "category": "category_1762302555240",
+    "tags": [
+      "轻阅读，在线阅读，网页阅读"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=read.mlhh.cn"
+  },
+  {
+    "id": 1762302649398,
+    "name": "轻阅读邀请码获取",
+    "description": "",
+    "url": "https://qyd.mlhh.cn",
+    "category": "category_1762302555240",
+    "tags": [
+      "轻阅读，邀请码，自助"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=qyd.mlhh.cn"
+  },
+  {
+    "id": 1762302698804,
+    "name": "书源权限自助修改",
+    "description": "",
+    "url": "https://qyd.mlhh.cn/permission",
+    "category": "category_1762302555240",
+    "tags": [
+      "轻阅读，权限，自助"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=qyd.mlhh.cn"
   },
   {
     "id": 1751617129171,

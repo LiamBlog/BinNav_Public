@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 08:34:09
+// 网站数据 - 通过管理后台更新于 2025/11/5 08:36:05
 
 // 站点配置
 export const siteConfig = {
@@ -69,6 +69,28 @@ export const websiteData = [
       "书源"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=fb.shusan.cc"
+  },
+  {
+    "id": 1762302923088,
+    "name": "发布页",
+    "description": "",
+    "url": "https://fb.mlhh.cn",
+    "category": "category_1762254600844",
+    "tags": [
+      "发布页"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=mlhh.cn"
+  },
+  {
+    "id": 1762302963886,
+    "name": "书源发布页",
+    "description": "",
+    "url": "https://sy.mlhh.cn",
+    "category": "category_1762254600844",
+    "tags": [
+      "书源，发布页"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=mlhh.cn"
   },
   {
     "id": 1762302603010,

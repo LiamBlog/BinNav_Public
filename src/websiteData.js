@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 14:09:56
+// 网站数据 - 通过管理后台更新于 2025/11/5 14:12:56
 
 // 站点配置
 export const siteConfig = {
@@ -60,6 +60,18 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=mlhh.cn"
   },
   {
+    "id": 1762322934619,
+    "name": "晴天发布页",
+    "description": "",
+    "url": "http://vip.gyks.cf",
+    "category": "category_1762254600844",
+    "tags": [
+      "发布页",
+      "晴天"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=vip.gyks.cf"
+  },
+  {
     "id": 1762254027495,
     "name": "书山发布页",
     "description": "",
@@ -94,16 +106,16 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=sy.mlhh.cn"
   },
   {
-    "id": 1762322934619,
-    "name": "晴天发布页",
+    "id": 1762323048634,
+    "name": "大灰狼发布页",
     "description": "",
-    "url": "http://vip.gyks.cf",
+    "url": "http://svip.langge.cf",
     "category": "category_1762254600844",
     "tags": [
-      "发布页",
-      "晴天"
+      "大灰狼",
+      "发布页"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=vip.gyks.cf"
+    "icon": "https://icon.nbvil.com/favicon?url=svip.langge.cf"
   },
   {
     "id": 1762302603010,
